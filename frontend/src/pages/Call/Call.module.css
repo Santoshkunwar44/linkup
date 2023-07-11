@@ -1,0 +1,16 @@
+.call{
+
+    height: 100vh;
+}.callActions{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    height: 20%;
+    width: 100%;
+}
+.callGround{
+height: 80%;
+width: 100%;
+background-color: black;
+}
